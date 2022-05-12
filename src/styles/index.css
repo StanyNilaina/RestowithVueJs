@@ -1,0 +1,49 @@
+#bienvenu{
+    background: url('../assets/img/hero_bg_1.jpg') no-repeat center;
+  
+  }
+  .carousel {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 10%;
+    text-align: center;
+  }
+  .carousel h1{
+    color: orangered;
+    font-size: 56px;
+  }
+  .carousel h3{
+    color: whitesmoke;
+    margin-top: -52px;
+    font-size: 42px;
+    text-transform: uppercase;
+  }
+  .carousel p{
+    color: rgb(148, 144, 144);
+    font-size: 24px;
+  }
+  .carousel p a{
+    color: whitesmoke;
+    font-size: 24px;
+  }
+  .carousel div a{
+    margin-top: 28px;
+    color: #444;
+    text-transform: uppercase;
+    font-size: 24px;
+  }
+  .carousel div a:hover{
+    color: orangered;
+  }
+  .store{
+    margin-top: 10%;
+      background: url('../assets/img/img_1.jpg') no-repeat center;
+      height: 100%;
+  
+  }
+  .card{
+    background: url('../assets/img/hero_bg_2.jpg' ) no-repeat center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    
+  }
+  
